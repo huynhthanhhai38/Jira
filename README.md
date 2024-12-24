@@ -1,5 +1,4 @@
 # Jira
-Docker-compose JIRA
 
 How to hack jira
 
